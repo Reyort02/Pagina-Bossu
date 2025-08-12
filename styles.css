@@ -1,0 +1,50 @@
+body {
+    background-color: #fff;
+    font-family: sans-serif;
+    margin: 0%;
+}
+
+.titulo {
+    background: #fc93ea8a;
+    color: #111;
+    height: 50px;
+    width: 100%;
+    text-align: left;
+    margin: 0%;
+    padding-top: 1px;
+    padding-bottom: 2%;
+    padding-left: 1%;
+}
+
+.contenedor{
+    width: 100%;
+    margin: 0%;
+    color: #111;
+}
+
+.cajaA {
+    background: #fc93ea8a;
+    text-align: left;
+    width: 400px;
+    height: 40px;
+    margin-top: 40px;
+    padding: 1%;
+    border-top-right-radius: 9px;
+}
+
+h2 {
+    margin: 2%;
+}
+
+.cajaB {
+    background: #dddddd6b;
+    text-align: left;
+    width: 400px;
+    height: 150px;
+    padding: 1%;
+    border-bottom-right-radius: 9px;
+}
+
+p {
+    margin: 2%;
+}
